@@ -157,11 +157,18 @@ Analyzing tweets for sentiment remains an essential marketing exercise for any c
 **References:**
 	
 • https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2018/2708-2018.pdf
+
 • https://www.conviva.com/netflix-and-squid-game-using-viewership-data-to-win-the-war-on-engagement/
+
 • https://scrapingrobot.com/blog/twitter-sentiment-analysis/
+
 • https://github.com/Prabagini/Twitter-Sentiment-Analysis/blob/main/Jupyter%20Notebook/Twitter-Sentiment-Analysis.ipynb
+
 • https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/
+
 • https://towardsdatascience.com/an-easy-tutorial-about-sentiment-analysis-with-deep-learning-and-keras-2bf52b9cba91
+
 • https://colab.research.google.com/drive/1CgnLgSePdMFOPOXiN1IBXyV4oBJffxwE
+
 • https://thecleverprogrammer.com/2021/11/03/squid-game-sentiment-analysis-using-python/
 
